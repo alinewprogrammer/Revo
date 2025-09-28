@@ -1,1 +1,0 @@
-// a very simple authentication page with email and password

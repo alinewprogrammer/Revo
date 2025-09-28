@@ -1,1 +1,0 @@
-// this page should show all relative statistics and data about the orders placed by customers, and income
