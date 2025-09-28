@@ -1,1 +1,0 @@
-// this should be the layout for the checkout page, where the user can see their cart and proceed to payment
